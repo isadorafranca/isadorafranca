@@ -5,7 +5,7 @@
  
 :star: I'm Biologist with Masters degree in Biosciences!
 
-:star: since 2020 I study to become a System analyst and developer (for now Python, C# and R)
+:computer: since 2020 I study to become a System analyst and developer (for now Python, C# and R)
 
 :art: I'm a lover of the art of writing, dancing and photography
 
