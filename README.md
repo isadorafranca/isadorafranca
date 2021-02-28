@@ -9,7 +9,7 @@
 
 :art: I'm a lover of the art of writing, dancing and photography
 
-:sun: I'm passionate about nature and animals
+:rainbow: I'm passionate about nature and animals
 
 :cat: I have one cute cat (Alanis Teresa) 
 
