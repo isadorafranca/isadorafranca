@@ -7,11 +7,11 @@
 
 :star: since 2020 I study to become a System analyst and developer (for now Python, C# and R)
 
-:star: I'm a lover of the art of writing, dancing and photography
+:art: I'm a lover of the art of writing, dancing and photography
 
-:star: I'm passionate about nature and animals
+:sun: I'm passionate about nature and animals
 
-:star: I have one cute cat (Alanis Teresa) 
+:cat: I have one cute cat (Alanis Teresa) 
 
 ##
 ### Let's keep in touch..? 
