@@ -33,5 +33,4 @@
   
   ![Snake animation](https://github.com/isadorafranca/isadorafranca/blob/output/github-contribution-grid-snake.svg)
  ##
- 
-  *We write to taste life twice, in the moment and in retrospection*
+   *We write to taste life twice, in the moment and in retrospection*
