@@ -4,11 +4,10 @@
 ### Fun facts about me: 
 :star: I'm Biologist with Masters degree in Biosciences!
 
-:computer: since 2020 I study to become a System analyst and developer (for now Python, SQL, C# and R)
+:computer: Specialization in Development and Strategic Management of IoT and Big Data (for now Python, R, and SQL)
 
 :rainbow: I'm passionate about nature and animals
-
-:cat: I have one cute cat (Alanis Teresa)
+🐱🐈🐶👶
 
  <div>
   <a href="https://github.com/isadorafranca">
@@ -18,7 +17,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Isa-RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   
