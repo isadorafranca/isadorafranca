@@ -7,6 +7,7 @@
 :computer: Specialization in Development and Strategic Management of IoT and Big Data (for now Python, R, and SQL)
 
 :rainbow: I'm passionate about nature and animals
+
 🐱🐈🐶👶
 
  <div>
